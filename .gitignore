@@ -1,11 +1,11 @@
 # Java Ignores
-/trip-service-kata/target
-/trip-service-kata/.classpath
-/trip-service-kata/.project
-/trip-service-kata/.settings
-/trip-service-kata/tomcat.*
-/trip-service-kata/.idea
-/trip-service-kata/*.iml
+target
+.classpath
+.project
+.settings
+tomcat.*
+.idea
+*.iml
 
 # IntelliJ IDEA
 .idea/
@@ -15,7 +15,6 @@ out/
 **/.idea
 
 #Xcode / Objective-c Ignores
-
 .DS_Store
 
 ## Build generated
