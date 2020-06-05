@@ -1,42 +1,11 @@
 # Java Ignores
-/java/trip-service-kata/target
-/java/trip-service-kata/.classpath
-/java/trip-service-kata/.project
-/java/trip-service-kata/.settings
-/java/trip-service-kata/tomcat.*
-/java/trip-service-kata/.idea
-/java/trip-service-kata/*.iml
-
-# C# Ignores
-_ReSharper.*/
-[Bb]in
-[Oo]bj
-*.suo
-*.user
-_NCrunch_*/
-
-# Python Ignores
-*.pyc
-
-#php netbeans
-php/nbproject/
-
-# JavaScript Ignores
-/javascript/node_modules
-
-# Ignore Vim undo history
-*.un~
-
-# sbt specific
-dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
-
-# Scala-IDE specific
-.scala_dependencies
+/trip-service-kata/target
+/trip-service-kata/.classpath
+/trip-service-kata/.project
+/trip-service-kata/.settings
+/trip-service-kata/tomcat.*
+/trip-service-kata/.idea
+/trip-service-kata/*.iml
 
 # IntelliJ IDEA
 .idea/
